@@ -44,15 +44,15 @@ Dicee-Game/
 
 ### Home Screen
 
-![Home](./assets/home.png)
+![Home](assets/home.png)
 
 ### Player 1 Wins
 
-![Player1](./assets/player1-win.png)
+![Player1](assets/player1-win.png)
 
 ### Player 2 Wins
 
-![Player2](./assets/player2-win.png)
+![Player2](assets/player2-win.png)
 
 ## 🌐 Deployment
 
