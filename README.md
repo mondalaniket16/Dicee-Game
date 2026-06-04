@@ -40,6 +40,20 @@ Dicee-Game/
 4. The player with the higher number wins.
 5. If both dice show the same value, it's a draw.
 
+## 📸 Preview
+
+### Home Screen
+
+![Home](./assets/home.png)
+
+### Player 1 Wins
+
+![Player1](./assets/player1-win.png)
+
+### Player 2 Wins
+
+![Player2](./assets/player2-win.png)
+
 ## 🌐 Deployment
 
 Deployed using Vercel.
